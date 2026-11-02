@@ -1,0 +1,4 @@
+<meta>
+    <info author="1Lorenzo" name="ml_discord demo" type="script" version="0.9.0" />
+    <script src="server.lua" type="server" />
+</meta>
