@@ -121,5 +121,3 @@ Official MTA docs: https://linux.multitheftauto.com/ and https://wiki.multitheft
 
 
 ## Source release v0.9.0
-
-See [BUILD.md](../BUILD.md) for the new Windows and Linux build instructions. These source changes require new native binaries; the previous v0.8.2 DLL/SO assets are not enough for the new role API.
